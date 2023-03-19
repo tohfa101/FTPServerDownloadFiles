@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "NuiteeImageFTPServer/1.0.0": {
+        "dependencies": {
+          "FluentFTP": "46.0.2"
+        },
+        "runtime": {
+          "NuiteeImageFTPServer.dll": {}
+        }
+      },
+      "FluentFTP/46.0.2": {
+        "runtime": {
+          "lib/net6.0/FluentFTP.dll": {
+            "assemblyVersion": "46.0.2.0",
+            "fileVersion": "46.0.2.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NuiteeImageFTPServer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FluentFTP/46.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-DWdIT+tAzypO8cDeh+o5kqRx1DWBRHmwnzjc4TStpjwxZf+FyQ0draXmmghBiT+c5mOnqcbV631+w0xbMvoVZg==",
+      "path": "fluentftp/46.0.2",
+      "hashPath": "fluentftp.46.0.2.nupkg.sha512"
+    }
+  }
+}

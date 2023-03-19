@@ -1,0 +1,17 @@
+C:\Users\admin\Desktop\FTPServer\NuiteeImageFTPServer\bin\Debug\net6.0\NuiteeImageFTPServer.exe
+C:\Users\admin\Desktop\FTPServer\NuiteeImageFTPServer\bin\Debug\net6.0\NuiteeImageFTPServer.deps.json
+C:\Users\admin\Desktop\FTPServer\NuiteeImageFTPServer\bin\Debug\net6.0\NuiteeImageFTPServer.runtimeconfig.json
+C:\Users\admin\Desktop\FTPServer\NuiteeImageFTPServer\bin\Debug\net6.0\NuiteeImageFTPServer.dll
+C:\Users\admin\Desktop\FTPServer\NuiteeImageFTPServer\bin\Debug\net6.0\NuiteeImageFTPServer.pdb
+C:\Users\admin\Desktop\FTPServer\NuiteeImageFTPServer\obj\Debug\net6.0\NuiteeImageFTPServer.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\FTPServer\NuiteeImageFTPServer\obj\Debug\net6.0\NuiteeImageFTPServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\FTPServer\NuiteeImageFTPServer\obj\Debug\net6.0\NuiteeImageFTPServer.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\FTPServer\NuiteeImageFTPServer\obj\Debug\net6.0\NuiteeImageFTPServer.AssemblyInfo.cs
+C:\Users\admin\Desktop\FTPServer\NuiteeImageFTPServer\obj\Debug\net6.0\NuiteeImageFTPServer.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\FTPServer\NuiteeImageFTPServer\obj\Debug\net6.0\NuiteeImageFTPServer.dll
+C:\Users\admin\Desktop\FTPServer\NuiteeImageFTPServer\obj\Debug\net6.0\refint\NuiteeImageFTPServer.dll
+C:\Users\admin\Desktop\FTPServer\NuiteeImageFTPServer\obj\Debug\net6.0\NuiteeImageFTPServer.pdb
+C:\Users\admin\Desktop\FTPServer\NuiteeImageFTPServer\obj\Debug\net6.0\NuiteeImageFTPServer.genruntimeconfig.cache
+C:\Users\admin\Desktop\FTPServer\NuiteeImageFTPServer\obj\Debug\net6.0\ref\NuiteeImageFTPServer.dll
+C:\Users\admin\Desktop\FTPServer\NuiteeImageFTPServer\bin\Debug\net6.0\FluentFTP.dll
+C:\Users\admin\Desktop\FTPServer\NuiteeImageFTPServer\obj\Debug\net6.0\NuiteeImageFTPServer.csproj.CopyComplete
